@@ -1,0 +1,17 @@
+{
+  "name": "notes-manager",
+  "version": "1.0.0",
+  "description": "Manage Notes",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "npm start"
+  },
+  "author": "somil",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "validator": "^12.2.0",
+    "yargs": "^15.1.0"
+  }
+}

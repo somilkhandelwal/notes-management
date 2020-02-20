@@ -1,0 +1,17 @@
+/node_modules
+/.pnp
+.pnp.js
+
+# session-file-store folder
+/sessions
+
+# cache
+/cache
+
+# testing
+/coverage
+
+# production
+/build
+
+db.json
